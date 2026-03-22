@@ -14,7 +14,7 @@ O projeto consiste na criação de um robô-aranha quadrúpede equipado com:
 * **Atuadores:** 8 servomotores para movimentos independentes.
 * **Linguagem:** C++ (Arduino IDE).
 
-A estrutura permite grande mobilidade e estabilidade em superfícies variadas, com controle total via smartphone.
+A estrutura permite grande mobilidade e estabilidade em superfícies variadas, com controle via smartphone.
 
 ---
 
@@ -35,7 +35,7 @@ A estrutura permite grande mobilidade e estabilidade em superfícies variadas, c
 *  [Vídeo de Funcionamento (Apresentação)](./Apresentacao/README.md)
 *  [Manual de Utilização](./Manual/manual%20de%20utilização.md)
 
-### 📄 Documentação Completa
+### 📄 Documentação 
 1. [Introdução](./Documentacao/01-Introducão.md)
 2. [Metodologias Ágeis](./Documentacao/02-Metodologias%20Ágeis.md)
 3. [Desenvolvimento](./Documentacao/03-Desenvolvimento.md)
@@ -46,9 +46,14 @@ A estrutura permite grande mobilidade e estabilidade em superfícies variadas, c
 ---
 
 ## 📸 Galeria
-<p align="center">
-  <img src="./assets/imgRobo1.jpeg" width="200">
-  <img src="./assets/imgRobo2.jpeg" width="200">
-  <img src="./assets/imgRobo3.jpeg" width="200">
-  <img src="./assets/imgAPP.jpeg" width="200">
-</p>
+Algumas iamgens do projeto:
+
+![Visão Frontal do Robô Spindle](./assets/imgRobo1.jpeg)
+
+![Visão Lateral do Robô Spindle](./assets/imgRobo2.jpeg)
+
+![Detalhe da Estrutura e Servos](./assets/imgRobo3.jpeg)
+
+![Interface do Aplicativo de Controle](./assets/imgAPP.jpeg)
+
+---
