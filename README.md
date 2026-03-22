@@ -45,7 +45,7 @@ A estrutura permite grande mobilidade e estabilidade em superfícies variadas, c
 
 ---
 
-## 📸 Galeria
+##  Galeria
 Algumas iamgens do projeto:
 
 ![Visão Frontal do Robô Spindle](./assets/imgRobo1.jpeg)
