@@ -23,7 +23,7 @@ O controle é processado pelo Arduino Nano, que recebe comandos via Bluetooth do
 | Servos Coxas | D4, D6, D8, D10 |
 | Servos Joelhos| D5, D7, D9, D11 |
 
-![Pinagem arduino nano](./assets/pinagemArduinoNano.jpeg)
+![Pinagem arduino nano](../assets/pinagemArduinoNano.jpeg)
 
 
 ##  Como carregar
