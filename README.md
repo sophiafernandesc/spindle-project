@@ -32,7 +32,6 @@ A estrutura permite grande mobilidade e estabilidade em superfícies variadas, c
 
 *  [Código Fonte (Arduino)](./Codigo/README.md)
 *  [Aplicativo para Smartphone](./App/README.md)
-*  [Vídeo de Funcionamento (Apresentação)](./Apresentacao/README.md)
 *  [Manual de Utilização](./Manual/manual%20de%20utilização.md)
 
 ### 📄 Documentação 
